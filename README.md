@@ -6,7 +6,7 @@ Details
 --------------------------------------
   >* Started: 19 August 2019.
   >* Version: None
-  >* Framework: Java 12.0.2
+  >* Framework: Java 12.0.2 with JavaFX
   >* License: MIT License
   >* Ended: Ongoing
 
