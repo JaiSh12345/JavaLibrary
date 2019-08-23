@@ -22,21 +22,21 @@ Yet to be decided.
 ### Classes
 
 > __Core Classes__
-  1) Book
+  1) Media and subclasses
   2) Categories
   2) Transactions
-  4) BookCollection
+  4) MediaCollection
 > __Client Classes__
   1) Users
   2) Accounts
 > __Databases__
-  1) Students
-  2) Teachers
-  3) Staff
-  4) Records
+  1) StudentsDB
+  2) TeachersDB
+  3) StaffDB
+  4) RecordsDB
 > __Convenience Classes__
   1) LBNotebook
-  2) Help&Settings
+  2) HelpAndSettings
   3) About
 > __Feature Classes__
   1) Payment
