@@ -1,3 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classes>
+    <!--ROLE: Base class of any object of this whole library collection-->
+    <Media></Media>
+    <!--ROLE: Represents a book media.-->
+    <Book extends = "Media"></Book>
+    <!--ROLE: Represents an audio media.-->
+    <Audio extends ="Media"></Audio>
+    <!--ROLE: Represents a video media.-->
+    <Video extends = "Media"></Video>
+    <!--ROLE: Represents a magazine media.-->
+    <Magazine extends = "Media"></Magazine>
+    <!--ROLE: Represents a newspaper media.-->
+    <Newspaper extends = "Media"></Newspaper>
+    <!--May add more media classes as we see fit-->
+    <!--ROLE: Denotes the categories of media ie documentary, history, tourism, infotainment.-->
+    <Categories></Categories>
+    <!--ROLE: Handles all media checkout, checkin, renew, reserve etc.-->
+    <Transactions></Transactions>
+    <!--ROLE: Stores and provides access to the media stored by this library.-->
+    <MediaCollection type = "Database"></MediaCollection>
+    <!--ROLE: Symbolizes a User with all their details.-->
+    <Users></Users>
+    <!--Thinking of adding a Student and a Teacher class extending Users-->
+    <!--ROLE: Represents an account with login, logout, password modifications possibilities.-->
+    <Accounts></Accounts>
+    <!--ROLE: Stores and provides access to Students registered in the library.-->
+    <StudentsDB type = "Database"></StudentsDB>
+    <!--ROLE: Stores and provides access to Teachers registered in the library.-->
+    <TeachersDB type = "Database"></TeachersDB>
+    <!--ROLE: Stores and provides access to Staff registered in the library.-->
+    <StaffDB type = "Database"></StaffDB>
+    <!--ROLE: Stores and provides access to Records of Transactions occurring in the library.-->
+    <RecordsDB></RecordsDB>
+    <!--ROLE: Am interactive notebook to facilitate the function =s of a librarian.-->
+    <LBNotebook></LBNotebook>
+    <!--ROLE: Provides access to help and setting of this library.-->
+    <HelpAndSettings></HelpAndSettings>
+    <!--Yet to decide what about will do-->
+    <About></About>
+    <!--FUTURE: Controls the payments to the library (of fines etc).-->
+    <Payment></Payment>
+    <!--FUTURE: Show which media are popular and which are recommended based on their library history.-->
+    <Trends></Trends>
 </classes>
