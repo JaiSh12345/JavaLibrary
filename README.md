@@ -29,6 +29,7 @@ Yet to be decided.
 > __Client Classes__
   1) Users
   2) Accounts
+  3) Query
 > __Databases__
   1) StudentsDB
   2) TeachersDB
