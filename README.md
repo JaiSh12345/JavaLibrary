@@ -23,12 +23,13 @@ Yet to be decided.
 
 > __Core Classes__
   1) Book
-  2) Categories
-  2) Transactions
+  2) Category
+  2) Transaction
   4) BookCollection
 > __Client Classes__
-  1) Users
-  2) Accounts
+  1) User
+  2) Account
+  3) Query
 > __Databases__
   1) Students
   2) Teachers
