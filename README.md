@@ -17,7 +17,7 @@ Yet to be decided.
 Yet to be decided.
 
 ### Layout
-Yet to be decided.
+![Layout](https://github.com/JaiSh12345/JavaLibrary/blob/planning/Planning/Branches.png)
 
 ### Classes
 

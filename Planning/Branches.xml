@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile type="device" version="11.2.2" modified="2019-08-24T12:06:24.714Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134" etag="5ofnWBm4JVEs3qYDcIol" pages="1" compressed="false">
+  <diagram id="c7558073-3199-34d8-9f00-42111426c3f3" name="Page-1">
+    <mxGraphModel grid="1" shadow="1" math="0" background="#ffffff" pageHeight="827" pageWidth="1169" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="574" dx="1278">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-109" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="eULeEg9o5sDmPscuYIr8-107" source="eULeEg9o5sDmPscuYIr8-106">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-115" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" target="eULeEg9o5sDmPscuYIr8-110" source="eULeEg9o5sDmPscuYIr8-106">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-116" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="eULeEg9o5sDmPscuYIr8-113" source="eULeEg9o5sDmPscuYIr8-106">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-120" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="eULeEg9o5sDmPscuYIr8-118" source="eULeEg9o5sDmPscuYIr8-106">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-106" value="&lt;h2&gt;main&lt;br&gt;&lt;/h2&gt;" parent="1" vertex="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;">
+          <mxGeometry as="geometry" height="70" width="140" y="160" x="390"/>
+        </mxCell>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-107" value="&lt;h2&gt;release&lt;br&gt;&lt;/h2&gt;" parent="1" vertex="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;">
+          <mxGeometry as="geometry" height="70" width="140" y="160" x="670"/>
+        </mxCell>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-110" value="&lt;h2&gt;planning&lt;br&gt;&lt;/h2&gt;" parent="1" vertex="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;">
+          <mxGeometry as="geometry" height="70" width="140" y="280" x="220"/>
+        </mxCell>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-113" value="&lt;h2&gt;code&lt;br&gt;&lt;/h2&gt;" parent="1" vertex="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;">
+          <mxGeometry as="geometry" height="70" width="140" y="280" x="390"/>
+        </mxCell>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-118" value="&lt;h2&gt;documentation&lt;br&gt;&lt;/h2&gt;" parent="1" vertex="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;">
+          <mxGeometry as="geometry" height="70" width="140" y="280" x="560"/>
+        </mxCell>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-121" value="PERMANENT BRANCHES AND GITHUB PROJECT LAYOUT" parent="1" vertex="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=22;">
+          <mxGeometry as="geometry" height="80" width="800" y="20" x="160"/>
+        </mxCell>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-123" value="&lt;table width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot; border=&quot;1&quot; cellpadding=&quot;4&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th align=&quot;left&quot;&gt;&lt;div style=&quot;line-height: 80%&quot;&gt;release&lt;/div&gt;&lt;/th&gt;&lt;th align=&quot;left&quot; style=&quot;line-height: 80%&quot;&gt;main&lt;/th&gt;&lt;th align=&quot;left&quot; style=&quot;line-height: 80%&quot;&gt;planning&lt;/th&gt;&lt;td&gt;&lt;b&gt;code&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;documentation&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Note:&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid rgb(152 , 191 , 33) ; font-size: 15px ; background-color: rgb(234 , 242 , 211)&quot;&gt;&lt;td&gt;&lt;div&gt;Stores releases&lt;/div&gt;&lt;div&gt;and versions only.&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;The branch where&lt;/div&gt;&lt;div&gt;all the ongoing work&lt;/div&gt;&lt;div&gt;finally ends up.&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;The branch where anything&lt;/div&gt;&lt;div&gt;related to the layout, structure&lt;/div&gt;&lt;div&gt;and organization of the project&lt;/div&gt;&lt;div&gt;is changed&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;The branch where anything&lt;/div&gt;&lt;div&gt;related to the actual project&lt;/div&gt;&lt;div&gt;is written, coded and changed.&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;The branch where anything&lt;/div&gt;&lt;div&gt;related to describing the&lt;/div&gt;&lt;div&gt;project and the library is&lt;/div&gt;&lt;div&gt;changed.&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;1) The main branches to use are:&lt;/div&gt;&lt;div&gt;planning, code, documentation.&lt;/div&gt;&lt;div&gt;2) To make any change to the PCD&lt;/div&gt;&lt;div&gt;branches, create a sub-branch&lt;/div&gt;&lt;div&gt;to make the edits.&lt;/div&gt;&lt;div&gt;3) Once the change is done,&lt;/div&gt;&lt;div&gt;delete the temporary branch.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;fontSize=22;">
+          <mxGeometry as="geometry" height="200" width="1160" y="560"/>
+        </mxCell>
+        <mxCell id="eULeEg9o5sDmPscuYIr8-124" value="DESCRIPTION OF PERMANENT BRANCHES" parent="1" vertex="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=22;">
+          <mxGeometry as="geometry" height="80" width="800" y="430" x="160"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
