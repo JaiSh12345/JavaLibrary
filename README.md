@@ -1,6 +1,7 @@
 # JavaLibrary
 
 A GUI Java Library software that optimises and automates the functioning of college or even public libraries.
+This software can be used as a standalone Library or a digital layer on a physical library.
 
 Details
 --------------------------------------
