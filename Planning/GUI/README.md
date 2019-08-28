@@ -6,3 +6,4 @@
 >### Categories Page
 >### Types Page
 >### Course Page
+>### About Page
